@@ -1,0 +1,17 @@
+https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference
+https://docs.microsoft.com/en-us/dax/dax-function-reference
+https://dax.guide
+https://docs.microsoft.com/en-us/power-bi/guidance/power-bi-optimization
+https://sqlserverbi.blog/2020/07/12/doing-power-bi-the-right-way/
+https://docs.microsoft.com/en-us/power-bi/connect-data/refresh-data
+https://www.csgpro.com/blog/2021/01/the-ultimate-power-bi-licensing-guide/
+https://community.powerbi.com/t5/Community-Blog/PowerBI-CICD-using-Azure-DevOps/ba-p/769244
+https://docs.microsoft.com/en-us/power-bi/learning-catalog/paginated-reports-online-course
+https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w
+https://docs.microsoft.com/en-us/learn/browse/?expanded=power-platform&products=power-bi
+https://www.sqlbi.com/
+https://radacad.com/blog
+https://measureup.com
+
+
+
